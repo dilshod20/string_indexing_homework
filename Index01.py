@@ -9,3 +9,4 @@ def main(s):
     s1 = s[0:1]
     return s1 
 print(main("python"))
+print(main("code"))
